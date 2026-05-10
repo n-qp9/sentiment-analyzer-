@@ -1,1 +1,28 @@
+# أمثلة نصية للاختبار / Sample Texts for Testing
 
+# ================================================
+
+# انسخ أي سطر وجربه في البرنامج
+
+# Copy any line and test it in the program
+
+# ✅ نصوص إيجابية (Positive)
+
+هذا المنتج رائع ومفيد جداً، أنا سعيد باستخدامه
+This movie was absolutely amazing and fantastic!
+الخدمة ممتازة والفريق بارع ومبدع
+I love this app, it’s beautiful and works perfectly
+
+# ❌ نصوص سلبية (Negative)
+
+خدمة سيئة جداً ومزعجة، لن أعود مرة أخرى
+The product is broken and terrible, very disappointed
+هذا التطبيق بطيء وفيه مشاكل كثيرة
+The worst experience I’ve ever had, totally useless
+
+# 😐 نصوص محايدة (Neutral)
+
+اليوم الجو طبيعي في المدينة
+The meeting is scheduled for tomorrow at 9am
+ذهبت إلى المتجر واشتريت بعض الأشياء
+The package arrived today

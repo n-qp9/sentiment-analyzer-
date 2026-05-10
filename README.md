@@ -5,7 +5,7 @@
 
 -----
 
-## 📌 نبذة عن المشروع / About
+##  نبذة عن المشروع / About
 
 This project is a **Natural Language Processing (NLP)** tool built in Python that analyzes the sentiment of text in both **Arabic and English**. It uses a lexicon-based machine learning approach to classify text as:
 
@@ -17,7 +17,7 @@ This project is a **Natural Language Processing (NLP)** tool built in Python tha
 
 -----
 
-## ✨ المميزات / Features
+##  المميزات / Features
 
 - 🌐 **ثنائي اللغة** — يدعم العربية والإنجليزية
 - 📊 **نسبة الثقة** — يعطي نسبة مئوية لدقة التحليل
@@ -27,7 +27,7 @@ This project is a **Natural Language Processing (NLP)** tool built in Python tha
 
 -----
 
-## 🛠️ التقنيات المستخدمة / Tech Stack
+##  التقنيات المستخدمة / Tech Stack
 
 ```
 Language : Python 3.x
@@ -38,7 +38,7 @@ Concepts : Text Classification · Language Detection · NLP
 
 -----
 
-## 🚀 طريقة التشغيل / How to Run
+##  طريقة التشغيل / How to Run
 
 **1. تأكد من تثبيت Python:**
 
@@ -67,7 +67,7 @@ python sentiment_analyzer.py
 
 -----
 
-## 📂 هيكل المشروع / Project Structure
+##  هيكل المشروع / Project Structure
 
 ```
 sentiment-analyzer/
@@ -80,7 +80,7 @@ sentiment-analyzer/
 
 -----
 
-## 💡 أمثلة / Examples
+##  أمثلة / Examples
 
 ```python
 from sentiment_analyzer import analyze_sentiment
@@ -95,7 +95,7 @@ print(result2["sentiment"])  # سلبي / Negative
 
 -----
 
-## 🎯 ما تعلمته / What I Learned
+##  ما تعلمته / What I Learned
 
 - مفاهيم **NLP** ومعالجة النصوص الطبيعية
 - كيفية بناء **مصنّف نصوص (Text Classifier)** من الصفر
@@ -104,7 +104,7 @@ print(result2["sentiment"])  # سلبي / Negative
 
 -----
 
-## 🔮 تطويرات مستقبلية / Future Improvements
+##  تطويرات مستقبلية / Future Improvements
 
 - [ ] إضافة نموذج ML متقدم (BERT / AraBERT)
 - [ ] واجهة ويب باستخدام Flask
